@@ -9,6 +9,7 @@ Student Grade Calculator
 This Java application calculates a student's total marks, average percentage, and grade based on marks entered for multiple subjects.
 
 🚀 Features
+
 Enter student name .
 Accepts marks for 6 subjects.
 Validates marks (0–100).
@@ -21,6 +22,7 @@ Java
 VS Code
 Java Scanner Class
 📖 Subjects
+
 Java
 Soft Skills
 C Language
@@ -32,6 +34,9 @@ A Grade: 80% and above
 B Grade: 60% to 79%
 C Grade: 40% to 59%
 Fail: Below 40%
+
+
+
 ▶️ How to Run
 Open the project in VS Code.
 Compile the program:
@@ -44,13 +49,14 @@ View the total marks, average percentage, and grade.
 Decodelabs_java_P2.java
 README.md
 🎯 Learning Outcomes
+
 Arrays
 Loops
 Conditional Statements
 Input Validation
 Arithmetic Operations
 User Input using Scanner
-👨‍💻 Author
-Arman 
+
+👨‍💻 Author-- Arman 
 
 Java Programming Intern – DecodeLabs
